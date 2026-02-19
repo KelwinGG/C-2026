@@ -1,4 +1,3 @@
-using System; //Biblioteca do C#(system) parao usar comandos de console 
 
 public class Program
 {

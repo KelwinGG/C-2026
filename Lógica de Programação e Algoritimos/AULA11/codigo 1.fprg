@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="codigo 1 float"/>
+        <attribute name="authors" value="FIC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-09 07:20:53 "/>
+        <attribute name="created" value="RklDO0VDRlA1MDdEMTMxOTM3ODsyMDI2LTAzLTA5OyIwNzowMDozMiAiOzIyNzc="/>
+        <attribute name="edited" value="RklDO0VDRlA1MDdEMTMxOTM3ODsyMDI2LTAzLTA5OyIwNzoyMDo1MyAiOzE7MjM5MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="largura, altura, valor, area, preco" type="Real" array="False" size=""/>
+            <output expression="&quot;Digite a largura do terrreno: &quot;" newline="False"/>
+            <input variable="largura"/>
+            <output expression="&quot;Digite o comprimento do terrreno: &quot;" newline="False"/>
+            <input variable="altura"/>
+            <output expression="&quot;Digite o valor do metro quadrado &quot;" newline="False"/>
+            <input variable="valor"/>
+            <assign variable="area" expression="largura * altura"/>
+            <assign variable="preco" expression="area * valor"/>
+            <output expression="&quot;O valor da ar&#233;a &#233; de &quot; &amp; area &amp; &quot;e o valor do terreno &#233; de R$&quot; &amp; preco" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

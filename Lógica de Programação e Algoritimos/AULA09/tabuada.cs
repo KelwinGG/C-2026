@@ -8,5 +8,5 @@ numero = int.Parse(ReadLine());
 for (int i = 0; i<1000; i++)
 {
     System.Console.WriteLine($"{numero}X{i+1} = {numero * (i+1)}");
-    Beep(1000,100);
+    Beep(800,100);
 }

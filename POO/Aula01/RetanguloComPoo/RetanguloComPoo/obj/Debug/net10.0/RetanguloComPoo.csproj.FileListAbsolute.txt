@@ -1,0 +1,15 @@
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\bin\Debug\net10.0\RetanguloComPoo.exe
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\bin\Debug\net10.0\RetanguloComPoo.deps.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\bin\Debug\net10.0\RetanguloComPoo.runtimeconfig.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\bin\Debug\net10.0\RetanguloComPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\bin\Debug\net10.0\RetanguloComPoo.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.AssemblyInfoInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.AssemblyInfo.cs
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.sourcelink.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\refint\RetanguloComPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\RetanguloComPoo.genruntimeconfig.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\RetanguloComPoo\RetanguloComPoo\obj\Debug\net10.0\ref\RetanguloComPoo.dll

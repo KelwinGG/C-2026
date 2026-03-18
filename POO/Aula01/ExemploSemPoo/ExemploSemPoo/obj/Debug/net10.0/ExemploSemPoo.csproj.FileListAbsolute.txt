@@ -1,0 +1,15 @@
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\bin\Debug\net10.0\ExemploSemPoo.exe
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\bin\Debug\net10.0\ExemploSemPoo.deps.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\bin\Debug\net10.0\ExemploSemPoo.runtimeconfig.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\bin\Debug\net10.0\ExemploSemPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\bin\Debug\net10.0\ExemploSemPoo.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.AssemblyInfoInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.AssemblyInfo.cs
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.sourcelink.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\refint\ExemploSemPoo.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ExemploSemPoo.genruntimeconfig.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula01\ExemploSemPoo\ExemploSemPoo\obj\Debug\net10.0\ref\ExemploSemPoo.dll

@@ -1,0 +1,15 @@
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.exe
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.deps.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.runtimeconfig.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\bin\Debug\net10.0\Circuferencia01.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.AssemblyInfoInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.AssemblyInfo.cs
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.csproj.CoreCompileInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.sourcelink.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\refint\Circuferencia01.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\Circuferencia01.genruntimeconfig.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula04\Circuferencia01\Circuferencia01\obj\Debug\net10.0\ref\Circuferencia01.dll

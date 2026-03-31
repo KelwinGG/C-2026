@@ -1,0 +1,15 @@
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\bin\Debug\net10.0\BancoPropriedades.exe
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\bin\Debug\net10.0\BancoPropriedades.deps.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\bin\Debug\net10.0\BancoPropriedades.runtimeconfig.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\bin\Debug\net10.0\BancoPropriedades.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\bin\Debug\net10.0\BancoPropriedades.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.AssemblyInfoInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.AssemblyInfo.cs
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.sourcelink.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\refint\BancoPropriedades.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\BancoPropriedades.genruntimeconfig.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula08\BancoPropriedades\BancoPropriedades\obj\Debug\net10.0\ref\BancoPropriedades.dll

@@ -48,13 +48,13 @@ namespace AtividadeBank
             TitularConta = titularConta;
             SaldoConta = saldoConta;
         }
-		public void Saque(double quantia)
+		public virtual void Saque(double quantia)
 		{
-			SaldoConta = quantia - taxadejuros;
+			SaldoConta -= quantia + taxadejuros;
 		}
 		public void Deposito(double quantia)
 		{
 			SaldoConta += quantia;
-		}
+		} 
     }
 }

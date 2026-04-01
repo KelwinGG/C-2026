@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46227164881ec7c78a6caa46be1b7d61770c387c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea798d8688506ecf6fb8e0ec3356c2e216bb459a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,3 +3,13 @@ C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.AssemblyI
 C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.AssemblyInfo.cs
 C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.csproj.CoreCompileInputs.cache
 C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.sourcelink.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\bin\Debug\net10.0\Task.exe
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\bin\Debug\net10.0\Task.deps.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\bin\Debug\net10.0\Task.runtimeconfig.json
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\bin\Debug\net10.0\Task.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\bin\Debug\net10.0\Task.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\refint\Task.dll
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.pdb
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\Task.genruntimeconfig.cache
+C:\Users\FIC\C#2025\C-2026\POO\Aula13\Task\Task\obj\Debug\net10.0\ref\Task.dll

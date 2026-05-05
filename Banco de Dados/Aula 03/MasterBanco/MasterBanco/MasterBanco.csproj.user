@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Dados\Consultas\SQLQuery5.sql">
+      <SubType>Designer</SubType>
+    </Compile>
+    <Compile Update="Dados\Consultas\SQL.sql">
+      <SubType>Designer</SubType>
+    </Compile>
+    <Compile Update="Dados\Consultas\SqlServerUnitTest2.cs">
+      <SubType>Designer</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

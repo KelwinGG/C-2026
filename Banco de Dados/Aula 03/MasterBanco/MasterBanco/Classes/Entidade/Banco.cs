@@ -31,7 +31,7 @@ namespace MasterBanco.Classes.Entidade
 
 
         //Caminho do servidor onde está o banco de dados
-        private static string conectarCaminho = @"Server = (localdb)\ECFP507D1319378\SQLEXPRESS01;Master = Clodoaldo;Trusted_Connection = True; TrustServerCertificate = True";
+        private static string conectarCaminho = @"Server = (localdb)\ECFP507D1319378\SQLEXPRESS01;master = Clodoaldo;Trusted_Connection = True; TrustServerCertificate = True";
 
         // Operações CRUD        
         // C - Create
@@ -80,7 +80,7 @@ namespace MasterBanco.Classes.Entidade
                         }
                     }
                     else
-                    {
+                    { 
                         Console.WriteLine("Nenhuma conta encontrada");
                     }
                 }

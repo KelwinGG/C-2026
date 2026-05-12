@@ -15,15 +15,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="Classes\CONSULTA\**" />
+    <EmbeddedResource Remove="Classes\CONSULTA\**" />
+    <None Remove="Classes\CONSULTA\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dados\Consultas\SQL.sql" />
+    <Compile Include="Dados\Consultas\SQLQuery5.sql" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Dados\Consultas\SQLQuery3.sql" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.1" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\CONSULTA\" />
-  </ItemGroup>
-  <ItemGroup />
   <ItemGroup Condition="$(VisualStudioVersion) == '18.0'">
     <Reference Include="Microsoft.Data.Tools.Schema.Sql, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>$(SSDTPath)\Microsoft.Data.Tools.Schema.Sql.dll</HintPath>
